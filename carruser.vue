@@ -23,7 +23,11 @@
           },
           {
             src: 'https://www.infobae.com/new-resizer/VUKdcRin38pdK9Yeuj1EkS8o1Xs=/750x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/09/20152401/Alzheimer-nota-infobae.jpg'
+          },
+           {
+            src: 'https://images-na.ssl-images-amazon.com/images/I/61%2BDWlktRiL._SL1000_.jpg'
           }
+          
         ]
       }
     }
@@ -34,7 +38,7 @@
   #example-custom-transition
     .fade
       &-enter-active, &-leave-active, &-leave-to
-        transition: .2s ease-out
+        transition: .8s ease-out
         position: absolute
         top: 0
         left: 0

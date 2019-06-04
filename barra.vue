@@ -11,14 +11,6 @@
 
       <v-spacer></v-spacer>
 
-      <v-btn icon>
-        <v-icon>search</v-icon>
-      </v-btn>
-
-      <v-btn icon>
-        <v-icon>more_vert</v-icon>
-      </v-btn>
-
       <template v-slot:extension>
         <v-tabs v-model="tab" color="cyan" grow>
           <v-tabs-slider color="yellow">
